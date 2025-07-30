@@ -17,17 +17,12 @@ Analyze verified airline passenger reviews to identify satisfaction trends acros
 
 ---
 
-### 2. 💰 [Add Your Next Project Here]  
+### 2. 💰 Updating soon  
 E.g., Sales Data Analysis, Customer Churn, Financial Modeling, etc.
 
-- **Skills**: Excel PivotTables, SQL Queries, Power BI Dashboards  
-- **Tools**: [Tool Names]  
-- 📂 Project Folder: `./sales-insights` (placeholder)
-
----
-
-### 3. 📉 [Another Project Placeholder]  
-You can add more here as you grow your portfolio.
+- **Skills**: learning new ones to add on here
+- **Tools**: --  
+- 📂 Project Folder: `--.` (placeholder)
 
 ---
 
