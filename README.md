@@ -13,7 +13,7 @@ Analyze verified airline passenger reviews to identify satisfaction trends acros
 - **Skills**: Pandas, Seaborn, Tableau, Sentiment Tagging, EDA  
 - **Tools**: Jupyter Notebook, Tableau Public  
 - **Deliverables**: Dashboard, Case Study PDF, Code Notebook  
-- 📂 [View Project Folder](./Voices-In-The-Sky)
+- 📂 [View Project Folder](./Voices In The Sky)
 
 ---
 
