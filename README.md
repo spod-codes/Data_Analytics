@@ -4,6 +4,12 @@
 Welcome to my **Data Analytics Portfolio** — a collection of real-world data projects built using Python, Tableau, SQL, Excel, and other data tools. Each project includes exploratory data analysis (EDA), data cleaning, visualizations, insights, and business context.
 
 ---
+#Achievements:
+
+[![Google Data Analytics Certificate](https://images.credly.com/size/300x300/images/2d4fcf77-62e7-4ba5-a878-e857de61ca9c/badge.png)](https://www.credly.com/badges/2d4fcf77-62e7-4ba5-a878-e857de61ca9c/public_url)
+
+
+
 
 ## 📁 Projects Included
 
