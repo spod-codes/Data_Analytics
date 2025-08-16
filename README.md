@@ -6,8 +6,7 @@ Welcome to my **Data Analytics Portfolio** — a collection of real-world data p
 ---
 #Achievements:
 
-[![Google Data Analytics Certificate](https://images.credly.com/size/300x300/images/2d4fcf77-62e7-4ba5-a878-e857de61ca9c/badge.png)](https://www.credly.com/badges/2d4fcf77-62e7-4ba5-a878-e857de61ca9c/public_url)
-
+[![Credly Badge](https://images.credly.com/size/220x220/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/2d4fcf77-62e7-4ba5-a878-e857de61ca9c/public_url)
 
 
 
